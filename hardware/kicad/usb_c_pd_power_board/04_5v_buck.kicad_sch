@@ -7,4 +7,17 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "+5V" (shape output) (at 186.69 81.28 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a718d516-908f-40e2-967f-0783cf3c573d)
+  )
+  (hierarchical_label "VBUS_PROTECTED" (shape input) (at 142.24 81.28 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d511ea4e-2c43-4646-90f3-8a1cb57acaa6)
+  )
+  (hierarchical_label "GND" (shape input) (at 142.24 87.63 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e6d1e8cc-4817-48c8-b6f5-31db1d2b2068)
+  )
 )
